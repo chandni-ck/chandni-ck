@@ -67,14 +67,14 @@
 
 | Project | Description |
 |---|---|
-| 📡 [communication-signal-analysis-aws-serverless](https://github.com/your-username/communication-signal-analysis-aws-serverless) | Near real-time mobile network performance analysis using AWS Kinesis, Lambda, Redshift, and Tableau |
-| 💬 [sentiment-analysis-rnn-lstm](https://github.com/your-username/sentiment-analysis-rnn-lstm) | Sentiment classification comparing RNN and LSTM architectures with GloVe embeddings, plus a Flask demo app |
+| 📡 [communication-signal-analysis-aws-serverless](https://github.com/chandni-ck/signal-analysis-optimisation) | Near real-time mobile network performance analysis using AWS Kinesis, Lambda, Redshift, and Tableau |
+| 💬 [sentiment-analysis-rnn-lstm](https://github.com/chandni-ck/sentiment-analysis-rnn-lstm) | Sentiment classification comparing RNN and LSTM architectures with GloVe embeddings, plus a Flask demo app |
 
 ### 🎓 Background
 
 - **M.Sc. Software Design with Cloud Native Computing** — Technological University of the Shannon (TUS), Ireland
 - **B.Tech Computer Science and Engineering** — Cochin University of Science and Technology (CUSAT), India
-- Certified in Jenkins, Kubernetes, Docker, Ansible, DevSecOps, and Git/GitHub fundamentals
+- Certified in AWS, Java, Jenkins, Kubernetes, Docker, DevSecOps, and Git/GitHub fundamentals
 
 ### 🏆 A few highlights
 
@@ -84,6 +84,6 @@
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-chandrasekharan-8a496a157/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chandnichandra.k@gmail.com)
 
